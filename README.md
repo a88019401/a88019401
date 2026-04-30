@@ -1,123 +1,42 @@
 <div align="center">
+  <h1>Hi 👋, I'm Yu-Hao Chang</h1>
+  <h3>Full-Stack Engineer | EdTech Developer</h3>
+  <p>Currently pursuing a Master's degree at National Central University.</p>
 
-# Hi, I'm Jimmy Chang 👋
+  <p>
+    <a href="mailto:a0977169674@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.youtube.com/c/jimmyenglish0215"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://instagram.com/yohao__0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 
-### Full-Stack Developer · EdTech Builder · Graduate Student at National Central University
-
-I build practical web applications, AI-assisted learning tools, and game-based learning systems that connect software engineering with education.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=a88019401&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/a88019401)
-[![GitHub followers](https://img.shields.io/github/followers/a88019401?label=Followers&style=social)](https://github.com/a88019401)
-
+  <img src="https://komarev.com/ghpvc/?username=a88019401&label=Profile%20views&color=20232a&style=flat" alt="Profile Views" />
 </div>
 
----
+<br>
 
-## About Me
+### 👨‍💻 About Me
+- 🎓 Master's student at **National Central University** (Network Learning Technology).
+- 🔭 Currently building **LearningQuest** (React/Supabase) and the **CyberHound-ROS2** quadruped robot.
+- 🌱 Deep diving into **Computer Systems** (CSAPP, OSTEP) and **RAG / Multi-Agent Systems**.
+- 🗣️ Bridging a decade of English teaching experience with modern EdTech development.
 
-- 🎓 Graduate student at **Graduate Institute of Network Learning Technology, National Central University**
-- 💻 Interested in **full-stack development, AI applications, educational technology, and game-based learning**
-- 🧠 Currently working on **LearningQuest**, an English learning platform with RPG-style learning tasks and badge mechanisms
-- 🛠️ Experienced with **React, Next.js, TypeScript, Node.js, Python Flask, Supabase, and RESTful APIs**
-- 🌱 Currently improving my skills in **software architecture, cloud deployment, AI integration, and learning analytics**
-- 📫 Reach me at **a0977169674@gmail.com**
-
----
-
-## Tech Stack
-
-### Frontend
-
+### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vue" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=20232A" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,mysql,postgresql,mongodb,sqlite,supabase" />
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a88019401&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a88019401&show_icons=true&theme=dark&hide_border=true&layout=compact" height="165" />
 </p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,figma,postman,azure,firebase,vercel,unity" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a88019401&theme=dark&hide_border=true" height="165" />
 </p>
-
----
-
-## Featured Projects
-
-### LearningQuest — Game-Based English Learning Platform
-
-A gamified English learning platform designed for junior high school students.  
-The system combines vocabulary learning, grammar practice, challenges, badges, leaderboards, and learning analytics.
-
-**Highlights**
-
-- RPG-style learning flow
-- Badge and achievement mechanisms
-- Learning behavior logging
-- Supabase authentication and database integration
-- Research-oriented data collection for learning analytics
-
----
-
-### AI English Tutoring System
-
-An AI-assisted English learning system that supports students with grammar explanations, question generation, and personalized learning assistance.
-
-**Highlights**
-
-- AI tutor interaction
-- Grammar-focused learning support
-- RAG-based learning material retrieval
-- Flask backend integration
-- Designed for English teaching scenarios
-
----
-
-### Learning Management Server
-
-A learning management and quiz-based web application for English learning activities.
-
-🔗 [View Project](https://javascript-quiz-app-livid.vercel.app/)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=a88019401&show_icons=true&theme=default&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a88019401&layout=compact&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a88019401&hide_border=true" />
-
-</div>
-
----
-
-## Connect with Me
-
-<p>
-  <a href="https://instagram.com/yohao__0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/c/jimmyenglish0215" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:a0977169674@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### Turning learning ideas into real web applications.
-
-</div>
